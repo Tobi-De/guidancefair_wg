@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=guidancefair
+POSTGRES_USER=ZkUpUZGELeRKqghHJrqnENBHVqGbpogQ
+POSTGRES_PASSWORD=1rKxYEmqJEdqqTZV0mv5eOMei27LfB9jtAzwiEoohe0zBcGJifZX8eQstAW3yDEP
