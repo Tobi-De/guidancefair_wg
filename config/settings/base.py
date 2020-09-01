@@ -94,7 +94,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "guidancefair.users.apps.UsersConfig",
-    # Your stuff: custom apps go here
+    "universities.apps.UniversitiesConfig",
 ]
 
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
@@ -291,4 +291,5 @@ SOCIALACCOUNT_ADAPTER = "guidancefair.users.adapters.SocialAccountAdapter"
 
 # Your stuff...
 WAGTAIL_SITE_NAME = "guidancefair"
+WAGTAIL_FRONTEND_LOGIN_URL = LOGIN_URL
 BASE_URL = "https://guidancefair"
